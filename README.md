@@ -1,8 +1,11 @@
-# Carolyn Stransky
+# Thibauld Braet
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Data engineer and  trail runner based in Leuven BE_ <br>
 
 [Email](mailto:thibauld@live.be) / [Website](https://thbraet.github.io/) / [LinkedIn](https://www.linkedin.com/in/thbauldbraet/) / [GitHub](https://github.com/thbraet/) / [Strava](https://www.strava.com/athletes/41916765)) 
+
+BELOW TO BE COMPLETE!!
+
 ## 👩🏼‍💻 Engineering Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
