@@ -2,8 +2,7 @@
 
 _Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
-
+[Email](mailto:thibauld@live.be) / [Website](https://thbraet.github.io/) / [LinkedIn](https://www.linkedin.com/in/thbauldbraet/) / [GitHub](https://github.com/thbraet/) / [Strava](https://www.strava.com/athletes/41916765)) 
 ## 👩🏼‍💻 Engineering Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
